@@ -2,3 +2,4 @@ git github ikinci gün birinci deneme
 git github ikinci gün ikinci deneme
 git github ikinci gün üçüncü deneme
 git github ikinci gün FATMA BRANCH'I deneme
+git github ikinci gün master FATMA BRANCH'I deneme
